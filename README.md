@@ -1,7 +1,7 @@
 # Apple Radars
 This repo contains a collection of projects that demonstrate iOS bugs and are referenced in Apple radars.
 
-##1. ImagePicker_PresentationBug
+##1. ImagePicker_PresentationBug [Fixed in iOS 10]
 UIImagePickerController doesn't resume to it's previous state after a full screen view controller is dismissed  
 [rdar://27223640](http://openradar.appspot.com/27223640)
 
