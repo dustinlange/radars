@@ -99,6 +99,8 @@
 				TargetAttributes = {
 					8C0D37891D2EA1B700D0C33F = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = ZU26232T5B;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -255,10 +257,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZU26232T5B;
 				INFOPLIST_FILE = ImagePicker_PresentationBug/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "dlange.ImagePicker-PresentationBug";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -266,10 +270,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZU26232T5B;
 				INFOPLIST_FILE = ImagePicker_PresentationBug/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "dlange.ImagePicker-PresentationBug";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -292,6 +298,7 @@
 				8C0D379E1D2EA1B700D0C33F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
